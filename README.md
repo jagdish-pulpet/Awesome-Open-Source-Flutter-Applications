@@ -55,9 +55,7 @@ This repository showcases various flutter open-source mobile applications. Each 
 | [Anytime Podcast Player](https://github.com/amugofjava/anytime_podcast_player) | A podcast player that allows users to discover and listen to podcasts anytime. | ![Version](https://img.shields.io/github/v/release/amugofjava/anytime_podcast_player) | ![Top Language](https://img.shields.io/github/languages/top/amugofjava/anytime_podcast_player) | ![Stars](https://img.shields.io/github/stars/amugofjava/anytime_podcast_player?style=social) | ![Last Commit](https://img.shields.io/github/last-commit/amugofjava/anytime_podcast_player) | ![Downloads](https://img.shields.io/github/downloads/amugofjava/anytime_podcast_player/total) |
 | [Finance App](https://github.com/lyskouski/app-finance) | An application designed to assist with personal finance tracking. | ![Version](https://img.shields.io/github/v/release/lyskouski/app-finance) | ![Top Language](https://img.shields.io/github/languages/top/lyskouski/app-finance) | ![Stars](https://img.shields.io/github/stars/lyskouski/app-finance?style=social) | ![Last Commit](https://img.shields.io/github/last-commit/lyskouski/app-finance) | ![Downloads](https://img.shields.io/github/downloads/lyskouski/app-finance/total) |
 | [Daily Diary](https://github.com/Voklen/Daily-Diary) | A simple diary application that helps users maintain daily entries. | ![Version](https://img.shields.io/github/v/release/Voklen/Daily-Diary) | ![Top Language](https://img.shields.io/github/languages/top/Voklen/Daily-Diary) | ![Stars](https://img.shields.io/github/stars/Voklen/Daily-Diary?style=social) | ![Last Commit](https://img.shields.io/github/last-commit/Voklen/Daily-Diary) | ![Downloads](https://img.shields.io/github/downloads/Voklen/Daily-Diary/total) |
-```
 
-You can copy and paste this code into your `README.md` file. As always, please verify the actual descriptions and download counts if you'd like to customize any details.
 
 
 
